@@ -48,9 +48,11 @@ Faculty of Economics and Business Management. Economics and Enterprise Managemen
 
 ### My project
 
-https://letanatol.github.io/rsschool-cv/cv
+https://letanatol.github.io/rsschool-cv/
 
 ### Languages
-**Russian:** native 
-**Belarusian:** native 
-**English:** beginner 
+
+- **Russian:** native
+- **Belarusian:** native
+- **English:** beginner
+
