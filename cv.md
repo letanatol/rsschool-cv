@@ -13,7 +13,12 @@
 
 ### About Me
 
-Here will be a brief information about me (your goal and priorities, highlight your strengths, tell us about your work experience, if there is no work experience, tell us about your desire to learn and learn new things)
+I have over 10 years of experience in a manufacturing company.
+I have expert knowledge in the field of organization of labor and wages, accounting, tax accounting.
+I have the skills of self-organization and self-discipline.
+Now I am studying at The Rolling Scopes School on the JavaScript/Front-end course.
+Web development and programming are very responsive and I therefore ready to learn a lot and make maximum efforts.
+I came to the realization that I could do it. Dream will come true.
 
 ### Skills
 
@@ -40,5 +45,11 @@ function rentalCarCost(d) {
 
 ### Education
 
-### Languages
+### My project
 
+https://letanatol.github.io/rsschool-cv/cv
+
+### Languages
+**Russian:** native
+**Belarusian:** native
+**English:** Beginner
