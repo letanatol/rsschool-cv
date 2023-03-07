@@ -52,7 +52,6 @@ https://letanatol.github.io/rsschool-cv/
 
 ### Languages
 
-- **Russian:** native
-- **Belarusian:** native
-- **English:** beginner
-
+- **Russian:** native  
+- **Belarusian:** native  
+- **English:** beginner  
