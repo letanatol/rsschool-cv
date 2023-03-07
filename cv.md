@@ -41,15 +41,16 @@ function rentalCarCost(d) {
 }
 ```
 
-### Experience
-
 ### Education
+
+**09/2007 – 06/2013** Vitebsk State Technological University
+Faculty of Economics and Business Management. Economics and Enterprise Management.
 
 ### My project
 
 https://letanatol.github.io/rsschool-cv/cv
 
 ### Languages
-**Russian:** native
-**Belarusian:** native
-**English:** Beginner
+**Russian:** native 
+**Belarusian:** native 
+**English:** beginner 
