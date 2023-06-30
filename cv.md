@@ -43,6 +43,9 @@ function rentalCarCost(d) {
 
 ### Education
 
+**09/2007 – 06/2013** Vitebsk State Technological University
+Faculty of Economics and Business Management. Economics and Enterprise Management.
+
 ### My project
 
 https://letanatol.github.io/rsschool-cv/
