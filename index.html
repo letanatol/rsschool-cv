@@ -1,10 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>CV</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="assets/icons/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:regular,500,600,700" rel="stylesheet">
 </head>
+
 <body>
+  <div class="wrapper">
+    <header class="header">
+      <div class="header__row">
+        <div class="header__image">
+          <img src="assets/img/My_photo.jpg" alt="My_photo">
+        </div>
+        <div class="header__body">
+          <h1 class="h1">Tatsiana Kudrautsava</h1>
+          <h2 class="h2">Junior Frontend Developer</h2>
+        </div>
+      </div>
+    </header>
+    <nav class="menu">
+      <ul class="menu__list">
+        <li class="menu__item"><a href="#about" class="menu__link">About</a></li>
+        <li class="menu__item"><a href="#contact" class="menu__link">Contacts</a></li>
+        <li class="menu__item"><a href="#skill" class="menu__link">Skills</a></li>
+        <li class="menu__item"><a href="#education" class="menu__link">Education</a></li>
+        <li class="menu__item"><a href="#experience" class="menu__link">Experience</a></li>
+        <li class="menu__item"><a href="#code" class="menu__link">Code</a></li>
+      </ul>
+    </nav>
+    <div class="content">
+      <div class="content__row">
+        <main class="main">
+          <div class="main__row">
+            <section id="about" class="main__section">
+              <h2 class="h2">About</h2>
+              <p>I have over 10 years of experience in a manufacturing company.
+                I have expert knowledge in the field of organization of labor and wages, accounting, tax
+                accounting.
+                I have the skills of self-organization and self-discipline.
+                Now I am studying at The Rolling Scopes School on the JavaScript/Front-end course.
+                Web development and programming are very responsive and therefore ready to learn a lot and make
+                maximum efforts.
+                I came to the realization that I could do it. Dream will come true.</p>
+            </section>
+            <section id="education" class="main__section">
+              <h2 class="h2">Education</h2>
+              <p class="contacts__bold">09/2007 – 06/2013</p>
+              <p class="contacts__bold">Vitebsk State Technological University.</p>
+              <p>Faculty of Economics and Business Management. Economics and Enterprise Management.</p>
+            </section>
+            <section id="experience" class="main__section">
+              <h2 class="h2">Experience</h2>
+              <p class="contacts__bold">07/2004 – 05/2022</p>
+              <p>Vitebsk Republican Unitary Electricity Enterprise "Vitebskenergo"</p>
+              <p>Economist-manager</p>
+            </section>
+            <section id="code" class="main__section">
+              <h2 class="h2">Code example</h2>
+              <p>
+                <code>function paperwork(n, m) {<br>   if (n &lt; 0 || m &lt; 0){<br><br>      return 0; <br>   } <br><br>   return n * m; <br>}</code>
+              </p>
+            </section>
+            <section id="projects" class="main__section">
+              <h2 class="h2">Projects</h2>
+              <p class="project__link">
+                <a href="https://letanatol.github.io/rsschool-cv/" target="_blank">My project</a>
+              </p>
+            </section>
+            <section id="languages" class="main__section">
+              <h2 class="h2">Languages</h2>
+              <ul class="languages__list">
+                <li class="languages__item">Russian: native</li>
+                <li class="languages__item">Belarusian: native</li>
+                <li class="languages__item">English: beginner</li>
+              </ul>
+            </section>
+          </div>
+        </main>
+        <div class="sidebar">
+          <div class="sidebar__row">
+            <div id="contact" class="contacts">
+              <h3>Contacts</h3>
+              <ul class="contacts__list">
+                <li class="contacts__item">
+                  <strong>Location:</strong> <a href="https://goo.gl/maps/G5GMXxTAcfJ6hgBU8"
+                    class="contacts__link">Warsaw,
+                    Poland</a>
+                </li>
+                <li class="contacts__item">
+                  <strong>Phone: </strong><a href="tel:+48507318203" class="contacts__link">+48 507 318 203</a>
+                </li>
+                <li class="contacts__item">
+                  <strong>Email: </strong><a href="mailto:letanatol@gmail.com"
+                    class="contacts__link">letanatol@gmail.com</a>
+                </li>
+                <li class="contacts__item">
+                  <strong>Telegram: </strong><a href="https://t.me/letanatol" class="contacts__link">@letanatol</a>
+                </li>
+                <li class="contacts__item">
+                  <strong>GitHub: </strong><a href="https://github.com/letanatol" class="contacts__link">letanatol</a>
+                </li>
+                <li class="contacts__item">
+                  <strong>Discord: </strong><a href="https://discordapp.com/users/1015731439028940861/"
+                    class="contacts__link">letanatol</a>
+                </li>
+              </ul>
+            </div>
+            <div id="skill" class="skills">
+              <div class="skills__row">
+                <h3>Skills</h3>
+                <ul class="skills__list">
+                  <li class="skills__item">HTML</li>
+                  <li class="skills__item">CSS (Preprocessor SCSS)</li>
+                  <li class="skills__item">JavaScript</li>
+                  <li class="skills__item">React JS</li>
+                  <li class="skills__item">Module Bundlers: Gulp, Webpack</li>
+                  <li class="skills__item">Git/GitHub</li>
+                  <li class="skills__item">VS Code</li>
+                  <li class="skills__item">Adobe Photoshop, Figma</li>
+                  <li class="skills__item">Trello, Jira, Asana</li>
+                  <li class="skills__item">MS Office (Word, Excel, PowerPoint, Outlook)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">
+      <div class="footer__row">
+        <ul class="footer__list">
+          <li class="footer__item"><a href="https://github.com/letanatol/" target="_blank" class="footer__link"><img
+                src="assets/icons/github_svg.svg" alt="Logo GitHub" width="60" height="60"></a></li>
+          <li class="footer__item">
+            <strong class="contacts__bold">2023</strong>
+          </li>
+          <li class="footer__item"><a href="https://rs.school/js-stage0/" target="_blank" class="footer__link">
+              <img src="assets/icons/RS_School-svg.svg" alt="Logo RS School" width="100" height="80">
+            </a></li>
+        </ul>
+      </div>
+    </footer>
+  </div>
 </body>
+
 </html>
