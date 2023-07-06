@@ -158,3 +158,27 @@ h3 {
   color: #77b8aa;
   padding: 10px;
 }
+
+.footer__list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.footer__item {
+  list-style: none;
+}
+
+.footer__link {
+  display: flex;
+  text-decoration: none;
+}
+
+.footer__link:hover {
+  box-shadow: 0 0 2px 2px #0f392f;
+  border-radius: 50px;
+}
+
+.footer__link:active {
+  box-shadow: inset 0 0 2px 2px #0f392f;
+}
